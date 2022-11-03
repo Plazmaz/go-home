@@ -1,0 +1,10 @@
+*
+!.gitignore
+!*.go
+!*.png
+!notes_and_research/
+!lfg/
+!rng/
+!rng/LICENSE
+!*.txt
+!*.md
