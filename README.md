@@ -1,6 +1,6 @@
 # Go Home
 
-Code for cracking the seed of Go's default `random.Source`.
+Code for cracking the seed of Go's default `random.Source`. This is very messy, and likely won't be maintained much, but I will accept PRs and feedback.
 
 # Layout
 
